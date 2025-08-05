@@ -5,7 +5,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo 'No tests yet' && true"
+    "test": "echo 'No tests yet' && true",
+    "build": "true"
   },
   "keywords": [
     "react-native"
